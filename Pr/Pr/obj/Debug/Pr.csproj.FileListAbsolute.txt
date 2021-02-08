@@ -1,0 +1,11 @@
+C:\Users\c_class\Desktop\Pr\Pr\bin\Debug\Pr.exe.config
+C:\Users\c_class\Desktop\Pr\Pr\bin\Debug\Pr.exe
+C:\Users\c_class\Desktop\Pr\Pr\bin\Debug\Pr.pdb
+C:\Users\c_class\Desktop\Pr\Pr\obj\Debug\Pr.csprojResolveAssemblyReference.cache
+C:\Users\c_class\Desktop\Pr\Pr\obj\Debug\Pr.Calc.resources
+C:\Users\c_class\Desktop\Pr\Pr\obj\Debug\Pr.Menu.resources
+C:\Users\c_class\Desktop\Pr\Pr\obj\Debug\Pr.Properties.Resources.resources
+C:\Users\c_class\Desktop\Pr\Pr\obj\Debug\Pr.csproj.GenerateResource.Cache
+C:\Users\c_class\Desktop\Pr\Pr\obj\Debug\Pr.exe
+C:\Users\c_class\Desktop\Pr\Pr\obj\Debug\Pr.pdb
+C:\Users\c_class\Desktop\Pr\Pr\obj\Debug\Pr.GraphEditor.resources
